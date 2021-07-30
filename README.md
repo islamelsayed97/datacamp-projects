@@ -1,2 +1,2 @@
-# data-analysis-projects
-My projects I have done in data analysis.
+# datacamp-projects
+My projects I have done in datacamp.
